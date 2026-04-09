@@ -1,15 +1,6 @@
 🚀 專業 IoT 解決方案 & 智能硬件開發 | Professional IoT Solutions
 歡迎來到我的 IoT 項目倉庫！這裡展示了從原型設計到工業應用的各種智能硬件解決方案。我們致力於將 AI 與物聯網技術結合，解決現實生活中的安全與自動化需求。
 
-🛠 本專案介紹：SmartStroller (智能嬰兒車系統)
-這是一個基於 IoT 技術的智能嬰兒車原型，旨在提升育兒安全與便利性。
-
-核心功能：[在此填寫具體功能，例如：障礙物檢測、遠端狀態監控、自動煞車等]
-
-硬件架構：Arduino / ESP 系列控制核心
-
-數據可視化：整合 Thingsboard Dashboard 進行實時數據監控
-
 💼 我們的服務項目 | Our Services
 除了開源項目，我們在 Carousell (旋轉拍賣) 提供全方位的技術諮詢與定製化開發服務：
 
@@ -50,15 +41,6 @@ Carousell 商店: 點擊查看我的賣場 - arthurwong0615
 _______________________________________________________________________________________________________
 🚀 Professional IoT Solutions & AI Hardware Development
 Welcome to my IoT project repository. This space showcases a variety of smart hardware solutions, ranging from rapid prototyping to industrial-grade safety systems. I specialize in integrating AI with IoT to solve real-world challenges.
-
-🛠 Project Highlight: SmartStroller
-The SmartStroller is an IoT-enabled safety system designed to enhance infant security and parental peace of mind.
-
-Key Features: [e.g., Obstacle detection, real-time posture monitoring, automatic braking system].
-
-Core Hardware: ESP32 / Arduino integration.
-
-Data Visualization: Real-time monitoring via Thingsboard Dashboard.
 
 💼 Professional Services & Customization
 Beyond open-source projects, I offer end-to-end technical consultancy and bespoke development via my Carousell Store:
